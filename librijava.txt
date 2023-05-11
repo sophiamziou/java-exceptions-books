@@ -1,0 +1,12 @@
+
+ titolo= l1
+ numero pagine= 22
+ editore= e1
+ autore= a1
+
+
+ titolo= l2
+ numero pagine= 333
+ editore= e2
+ autore= a2
+
